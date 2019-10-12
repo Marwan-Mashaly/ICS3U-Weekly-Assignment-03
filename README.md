@@ -1,1 +1,1 @@
-# ICS3U-Weekly-Assignment-03
+# ICS3U-Weekly-Assignment-03-python
